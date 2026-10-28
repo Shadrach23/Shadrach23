@@ -1,4 +1,13 @@
-# Shadrach Kwofie
+<div align="center">
+
+```text
+  ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
+  ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║
+  ███████╗███████║███████║██║  ██║██████╔╝███████║██║     ███████║
+  ╚════██║██╔══██║██╔══██║██║  ██║██╔══██╗██╔══██║██║     ██╔══██║
+  ███████║██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║╚██████╗██║  ██║
+  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+
 
 👋 Welcome to my GitHub profile! I'm Shadrach—a passionate software developer and cybersecurity enthusiast. I love solving challenges, building secure and efficient software, and collaborating with others to create innovative solutions.
 
