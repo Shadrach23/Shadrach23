@@ -1,93 +1,70 @@
 <div align="center">
 
-```text
-  ███████╗██╗  ██╗ █████╗ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
-  ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║
-  ███████╗███████║███████║██║  ██║██████╔╝███████║██║     ███████║
-  ╚════██║██╔══██║██╔══██║██║  ██║██╔══██╗██╔══██║██║     ██╔══██║
-  ███████║██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║╚██████╗██║  ██║
-  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shadrach%20Kwofie&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Building+secure+software;Learning+ethical+hacking;Exploring+low-level+Assembly;Open+to+collaboration" alt="Typing SVG" />
+</a>
 
-👋 Welcome to my GitHub profile! I'm Shadrach—a passionate software developer and cybersecurity enthusiast. I love solving challenges, building secure and efficient software, and collaborating with others to create innovative solutions.
+<br/>
 
----
+![Profile views](https://komarev.com/ghpvc/?username=Shadrach23&color=00d9ff&style=flat-square)
 
-## 🌟 About Me
-
-**💻 Software Developer & Cybersecurity Enthusiast**  
-Fueled by curiosity, I specialize in building robust, secure, and user-centric applications. My journey in tech is grounded in continuous learning and sharing knowledge.
-
-**🌱 Currently Exploring:**  
-- Low-level programming with Assembly to deepen my understanding of system operations  
-- Advanced cybersecurity: ethical hacking, network security, and secure coding  
-- Expanding expertise in Python, C++, JavaScript, and modern frameworks
-
-**🎯 Goals:**  
-- Drive impactful open-source contributions  
-- Develop cutting-edge, secure applications  
-- Advance my knowledge in cybersecurity and software engineering
-
-**😄 Pronouns:** He/Him  
-**⚡ Fun Fact:** I thrive on tackling complex problems and learning from every line of code. My tech journey is ever-evolving and I'm excited to connect with like-minded innovators!
+</div>
 
 ---
 
-## 🔍 Interests
+## 👨‍💻 About Me
 
-- **Software Development:** Creating intuitive web, mobile, and desktop applications
-- **Cybersecurity:** Safeguarding systems through ethical hacking, vulnerability assessment, and secure coding
-- **Open-Source:** Collaborating on impactful projects that solve real-world problems
+I'm a software developer and cybersecurity enthusiast who enjoys building secure, efficient, user-centric applications and learning how systems work under the hood.
 
----
-
-## 🚀 Projects & Contributions
-
-I'm always eager to collaborate on projects involving:
-- **Software Development:** Web/mobile apps, backend systems, automation
-- **Cybersecurity:** Penetration testing tools, vulnerability analysis, security solutions
-- **Open-Source:** Repositories that align with my passion for code and security
-
-Check out my repositories below to see what I’ve been building and contributing to!
+- 🔭 **Currently exploring:** Assembly, ethical hacking, network security, secure coding
+- 🌱 **Learning:** Cryptography, penetration testing, cloud security
+- 🎯 **Goal:** Contribute to open source and build secure applications
+- 🤝 **Open to:** Collaborating on web/mobile apps, security tools, and open-source projects
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-- **Languages:** Assembly, Python, C++, JavaScript, React, Java, PHP
-- **Cybersecurity:** Ethical hacking, network security, secure coding
-- **Tools & Tech:** Git, GitHub, Linux, Visual Studio Code
-- **Currently Learning:** Cryptography, penetration testing, cloud security
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=py,cpp,js,react,java,php,git,github,linux,vscode&theme=dark" />
 
-## 📫 Get in Touch
+</div>
 
-I'm always open to connecting with fellow developers, cybersecurity professionals, and collaborators!
-
-- 📧 **Email:** shadrachmartinkwofie@gmail.com  
-- 💼 **LinkedIn:** [Shadrach Martin Kwofie](#)  
-- 🐦 **X/Twitter:** [@Shadrach23](https://twitter.com/Shadrach23)  
+| Area | Focus |
+|------|-------|
+| **Languages** | Assembly, Python, C++, JavaScript, Java, PHP |
+| **Frameworks** | React |
+| **Security** | Ethical hacking, network security, secure coding |
+| **Tools** | Git, GitHub, Linux, VS Code |
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 📊 GitHub Stats
 
-Looking to contribute to:
-- Software development (web, mobile, desktop)
-- Cybersecurity tools and secure coding initiatives
-- Open-source projects that make a difference
+<div align="center">
 
-Feel free to reach out if you have a project in mind or just want to talk tech, coding, or security!
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadrach23&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadrach23&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-> “The only way to learn a new programming language is by writing programs in it.”  
-> — Dennis Ritchie
+## 📫 Connect With Me
 
-Thank you for visiting my profile—let’s build something amazing together! 🚀
+<div align="center">
 
-<!---
-Shadrach23/Shadrach23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://twitter.com/Shadrach23"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shadrachmartinkwofie@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+*Thanks for visiting. Let's build something great together! 🚀*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+
+</div>
